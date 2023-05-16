@@ -2,4 +2,5 @@ Initialize a repository and sync it to the remote repository
 -> git init 
 -> git add .
 -> git commit -m "Initialize a repository and sync it to the remote repository"
--> 
+-> git remoted add origin https://github.com/prasadnehal/new-repo.git
+-> git push --set-upstream origin master
