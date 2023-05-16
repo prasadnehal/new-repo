@@ -1,0 +1,5 @@
+Initialize a repository and sync it to the remote repository 
+-> git init 
+-> git add .
+-> git commit -m "Initialize a repository and sync it to the remote repository"
+-> 
